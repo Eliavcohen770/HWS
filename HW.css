@@ -1,0 +1,29 @@
+.num1{
+  text-align: center; 
+  color: black; 
+}
+.black{
+    border: 2px solid black;
+    text-align: center;
+    max-width: 900px;
+    margin: auto;
+    width: 700px;
+    height: 450px;
+    background-color: black;
+}
+.bottom{
+    color: white;
+    margin-bottom: 80px;
+}
+.bor{
+    border: 2px solid white;
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 300px;
+    width: 500px;
+    background-image: url(https://wallpapers.com/images/hd/funny-profile-picture-7k1legjukiz1lju7.jpg);
+    background-size: cover;
+}
+.up{
+    color: white;
+}
